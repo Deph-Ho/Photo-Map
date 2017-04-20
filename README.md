@@ -6,5 +6,7 @@
 
 ## Video Walkthrough
 http://imgur.com/cMhKbBk
+
+
 <img src='http://i.imgur.com/cMhKbBk.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 GIF created with [LiceCap] (https://www.cockos.com/licecap/).    
